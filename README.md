@@ -1,6 +1,7 @@
 # SvelteKit preconfigured with Tailwind CSS 
 
 This is a quick starter preconfigured with svelte@latest (v1.0.0-next.401) and tailwindcss (v3.1.7) <br>
+-> skeleton project + typescript + eslint 
 
 ## Creating a project
 
