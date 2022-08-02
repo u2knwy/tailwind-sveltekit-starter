@@ -6,7 +6,7 @@ This is a quick starter preconfigured with svelte@latest (v1.0.0-next.401) and t
 
 run npm install first
 
-# start development server
+## start development server
 npm run dev
 
-you should have a welcome screen in "font-bold" in front of you now. have fun
+you should have a **welcome screen** in "font-bold" in front of you now. have fun
